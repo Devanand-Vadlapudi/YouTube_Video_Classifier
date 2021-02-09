@@ -4,4 +4,4 @@ A machine learning based model that categorizes YouTube videos into 6 categories
 This model consists of concepts such as WebScraping, NLP, Supervised Learning.
 Having a basic knowledge on above mentioned topics would help you understand it better.
 
-Libraries used Selenium, Scikit-learn, Webdriver, numpy, pandas etc.
+Libraries used are Selenium, Scikit-learn, Webdriver, numpy, pandas etc.
